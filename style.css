@@ -1,0 +1,12 @@
+.main{
+  display: flex;
+  justify-content: space-around;
+  margin: auto auto;
+  margin-top: 4em;
+  align-items: center;
+}
+
+.main img{
+  max-width: 30px;
+  max-height: 30px;
+}

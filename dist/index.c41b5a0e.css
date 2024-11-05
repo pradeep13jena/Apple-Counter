@@ -1,0 +1,12 @@
+.main {
+  justify-content: space-around;
+  align-items: center;
+  margin: 4em auto auto;
+  display: flex;
+}
+
+.main img {
+  max-width: 30px;
+  max-height: 30px;
+}
+/*# sourceMappingURL=index.c41b5a0e.css.map */
